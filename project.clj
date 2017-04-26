@@ -1,6 +1,7 @@
 (defproject cexp "0.1.0-SNAPSHOT"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]])
+  :license {:name         "The MIT License"
+            :url          "http://opensource.org/licenses/mit-license.php"
+            :distribution :repo}
